@@ -95,6 +95,9 @@ a:hover {
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
+.center-block.image-resize-mode{
+    border-radius: 50px;
+}
 
 .d-bloc .icon-round,
 .d-bloc .icon-square,
@@ -109,10 +112,13 @@ a:hover {
 }
 .col-sm-12.text-center h2{
     font-size: 25px;
+    
 }
 .col-xs-12.col-md-8.col-md-offset-2.text-center blockquote{
     font-size: 20px;
+    color: black;
 }
+
 
 .d-bloc .a-btn,
 .d-bloc .navbar a,
