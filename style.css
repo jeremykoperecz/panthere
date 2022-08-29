@@ -97,6 +97,7 @@ a:hover {
 }
 .center-block.image-resize-mode{
     border-radius: 50px;
+    width: 100px;
 }
 
 .d-bloc .icon-round,
