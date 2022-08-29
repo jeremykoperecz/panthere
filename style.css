@@ -107,6 +107,9 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
+.col-sm-12.text-center h2{
+    font-size: 25px;
+}
 
 .d-bloc .a-btn,
 .d-bloc .navbar a,
@@ -809,7 +812,8 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthereb.jpg");
+    
   
 }
 
