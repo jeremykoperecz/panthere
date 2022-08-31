@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    box-sizing: border-box;
 }
 a,
 button {
@@ -19,7 +20,7 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 .bloc {
-    width: 100%;
+    width: auto;
     clear: both;
     background: 50% 50% no-repeat;
     padding: 0 50px;
