@@ -369,6 +369,11 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.img-responcive.portfolio-thumb img{
+    width: auto;
+    height: 270px;
+
+}
 
 @media (min-width: 768px) {
     .site-navigation {
