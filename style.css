@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -198,6 +200,7 @@ a:hover {
 .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
+    padding: 0;
 }
 
 .d-bloc .panel button:hover,
@@ -831,11 +834,16 @@ h4 {
     background-image: url("img/image-de-presentationb.jpg");
     
 }
-
+#form_1{
+    margin-left: 20px;
+}
+.col-sm-6 p{
+    margin-left: 20px;
+}
 @media (max-width: 1024px) {
     .bloc {
-        padding-left: 20px;
-        padding-right: 20px;
+       padding:0;
+        width: auto;
     }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
